@@ -1,0 +1,28 @@
+# Notebook environment
+jupyterlab==4.6.4
+ipykernel==7.4.0
+python-dotenv==1.2.4
+nest-asyncio==1.6.0
+
+# Gemini / embeddings
+google-genai==2.29.0
+numpy==2.4.6
+pandas==2.3.3
+
+# Vector stores / similarity search
+chromadb==1.5.9
+faiss-cpu==1.15.1
+sentence-transformers==6.1.0
+annoy  # used in Embed/annoy_paper_search.ipynb (not installed in .venv yet)
+
+# LlamaIndex RAG
+llama-index==0.14.25
+llama-index-core==0.14.25
+llama-index-embeddings-google-genai==0.6.0
+llama-index-llms-google-genai==0.11.2
+llama-index-embeddings-openai==0.6.0
+llama-index-llms-openai==0.7.10
+llama-index-readers-file==0.7.0
+llama-index-readers-web==0.7.0
+openai==2.54.0
+pypdf==6.20.0

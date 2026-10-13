@@ -1,0 +1,15 @@
+The Internet of Things (IoT) connects everyday physical devices to the internet so they can sense, communicate and exchange data.
+A survey of security and privacy challenges in Internet of Things networks and smart devices.
+Deep residual learning for image recognition using convolutional neural networks.
+Attention is all you need: transformer architectures for sequence-to-sequence language modelling.
+BERT: pre-training of deep bidirectional transformers for language understanding.
+Blockchain-based decentralized ledgers for secure financial transactions.
+Reinforcement learning agents that master board games through self-play.
+Edge computing and 5G for low-latency processing of sensor data from connected devices.
+Graph neural networks for molecular property prediction in drug discovery.
+A review of climate change impacts on global crop yields and food security.
+Generative adversarial networks for realistic image synthesis.
+Federated learning enables privacy-preserving model training across distributed mobile devices.
+Quantum computing algorithms for solving combinatorial optimization problems.
+Smart home automation using wireless sensor networks and IoT protocols such as MQTT and Zigbee.
+Sentence embeddings and approximate nearest neighbor search for scalable semantic retrieval.
